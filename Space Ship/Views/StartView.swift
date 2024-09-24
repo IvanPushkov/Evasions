@@ -19,7 +19,6 @@ class StartView: UIView{
        
 
         // Creating Start Button
-        
         func makeStartButton(){
             startButton = UIButton(frame: CGRect(x: 1, y: 2, width: 150, height: 150))
             startButton.setImage(UIImage(named: "Start"), for: .normal)
@@ -33,7 +32,6 @@ class StartView: UIView{
         }
         
         //  Creating music Button
-        
         func makeMusicButton(){
             musicButton = UIButton(frame: CGRect(x: 1, y: 2, width: 100, height: 100))
             var imageName: String
