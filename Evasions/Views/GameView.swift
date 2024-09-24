@@ -1,9 +1,5 @@
-//
-//  GameView.swift
-//  Evasions
-//
+
 //  Created by Ivan Pushkov on 23.09.2024.
-//
 
 import UIKit
 import SnapKit

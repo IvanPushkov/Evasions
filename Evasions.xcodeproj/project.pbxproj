@@ -78,7 +78,7 @@
 			isa = PBXGroup;
 			children = (
 				D71828C22C9CA60800D3B93F /* Assets.xcassets */,
-				D743F8D62C3EDBE0000F398B /* Space Ship */,
+				D743F8D62C3EDBE0000F398B /* Evasions */,
 				D743F8E62C3EDC05000F398B /* LaunchScreen.storyboard */,
 				D743F8E12C3EDBE0000F398B /* Main.storyboard */,
 				D743F8D52C3EDBE0000F398B /* Products */,
@@ -93,7 +93,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D743F8D62C3EDBE0000F398B /* Space Ship */ = {
+		D743F8D62C3EDBE0000F398B /* Evasions */ = {
 			isa = PBXGroup;
 			children = (
 				D743F8D72C3EDBE0000F398B /* AppDelegate.swift */,
@@ -107,7 +107,7 @@
 				D743F8E42C3EDC05000F398B /* Assets.xcassets */,
 				D743F9012C50F3FA000F398B /* Music */,
 			);
-			path = "Space Ship";
+			path = Evasions;
 			sourceTree = "<group>";
 		};
 		D743F9012C50F3FA000F398B /* Music */ = {
